@@ -1,0 +1,94 @@
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+  }
+
+  header {
+    background-color: #26292e;
+    margin: 0;
+    padding: 0;
+    /* height: 69px; */
+  }
+
+  h1 {
+    font-family: 'Butterfly Kids', cursive;
+    color: white;
+  }
+
+  svg {
+    /* height: 25px; */
+  }
+
+  .m1, .m2, .m3 {
+    display: inline-block;
+    width: 25%;
+  }
+
+  .icon-search1, .icon-search2, .icon-search3, .icon-search4 {
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 120px;
+    height: 120px;
+    /* aspect-ratio: 2 / 1; */
+    /* margin: 40px; */
+    /* padding: 40px; */
+    border: solid 10px black;
+    background-color: gray;
+    width: calc(90% / 2);
+    /* height: 50px; */
+  }
+
+  .icon-search {
+    color: white;
+    height: 50px;
+    width: 50px;
+  }
+
+  .last-section2 {
+    font-family: 'Roboto', sans-serif;
+    /* width: 500px; */
+  }
+
+  img {
+    width: 350px;
+  }
+
+  .welcome {
+    background-color: #e7718b;
+    font-family: 'Butterfly Kids', cursive;
+    font-family: 'Roboto', sans-serif;
+    /* height: 300px; */
+  }
+
+  footer {
+    background-color: #26292e;
+  }
+
+  .divided {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .btn1, .btn2 {
+    background-color: #26292e;
+    border: solid 10px #26292e;
+    border-radius: 10%;
+    color: white;
+    text-decoration: none;
+  }
+
+  .social-link {
+    color: white;
+    border: solid black 5px;
+    background-color: gray;
+    border-radius: 50%;
+    padding: 10px
+    margin: 5px;
+  }
+
+  footer {
+    color: white
+  }
