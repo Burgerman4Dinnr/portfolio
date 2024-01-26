@@ -1,0 +1,178 @@
+header {
+    background-color: black;
+    color: white;
+}
+
+.first-Paragraph {
+    color: white;
+    /* padding: calc(20px + (108 - 20) * ((100vw - 300px) / (1600 - 300))); */
+    padding-top: 75px;
+    border: solid red 5px;
+    border-radius: 50px;
+    /* margin: 60px; */
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.skill-img {
+    width: 300px;;
+    height: 55px;
+    margin-bottom: 50px;
+}
+
+.body-main {
+    background-color: #0E0E0E;
+    color: white;
+}
+
+.not-card {
+    background-color: red;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.project-section {
+    color: white;
+}
+
+
+.kb {
+    width: 75px;
+    height: 75px;
+    margin: 0;
+    padding: 0;
+}
+
+.kb-end {
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+.social {
+    padding: 25px;
+}
+
+.ig {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.nav-item {
+    padding-left: calc(5px + (250 - 20) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.contact-info {
+    font-weight: 600;
+    color: #6c757d;
+}
+
+.navitylink {
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    padding: 50;
+    border: solid #0E0E0E 1px; 
+    background-color: #0E0E0E; 
+    border-radius: 50px;
+    width: 100px;
+}
+
+.listinglist1 {
+    padding-bottom: 10px;
+    padding-left: calc(5px + (400 - 20) * ((100vw - 300px) / (1600 - 300)));
+}
+
+.listinglist2 {
+    padding-bottom: 15px;
+    padding-left: calc(70px + (400 - 20) * ((100vw - 300px) / (1600 - 300)));
+}
+
+/* h2 {
+    font-family: 'Noto Sans Mono', monospace;
+} */
+
+.phc {
+    width: 110px;
+    height: 110px;
+}
+
+.not-the-middle-imgs {
+    padding-top: 50px;
+}
+
+.other-titles {
+    padding-bottom: 50px;
+    padding-top: 20px;
+    text-decoration: underline;
+    color: yellow;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.download {
+    border: solid black 10px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.button-radius {
+    padding: 15px;
+}
+
+.body-main-dos {
+    background-color: #121212;
+}
+
+.project-section {
+    padding-bottom: 50px;
+}
+
+/* .card-text {
+    color: white;
+} */
+
+/* .notthemiddle1 {
+    padding-bottom: 50px;
+}
+
+.themiddle {
+    border-bottom: solid yellow 5px;
+    border-top: solid yellow 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+} */
+
+.notthemiddle2 {
+    padding-top: 50px;
+}
+
+.failure {
+    aspect-ratio: 16/9;
+    border-radius: 50px;
+    border: solid red 5px;
+}
+
+.lebutton {
+    background-color: #0E0E0E;
+    color: white;
+    border-color: red;
+    border-radius: 50px;
+}
+
+.hotboy {
+    border: solid 3px red;
+    border-radius: 50px;
+}
+
+.imagewpar {
+    padding-top: 50px;
+}
+
+.aboutmeimages {
+    padding-top: 150px;
+}
+
+.a-button {
+    padding-bottom: 50px;
+}
+
